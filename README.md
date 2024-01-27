@@ -1,4 +1,4 @@
-## Install first
+## Install dependencies and then build the library
 
 
 ```
@@ -11,7 +11,7 @@ pip install -e .
 
 ````
 python train.py
-
+```` 
 
 ## Acknowledgements
 
