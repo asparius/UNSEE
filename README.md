@@ -3,9 +3,8 @@
 
 ```
 pip install -r requirements.txt
-cd sentence-transformers
 pip install -e .
-cd ..
+
 ```` 
 
 ## Training
