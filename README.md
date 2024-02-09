@@ -21,6 +21,23 @@ Running STS benchmark in MTEB for VICReg.
 ````
 python run_mteb_english.py
 ````
+## BibTex Citation
+Please cite the following works if you use this repository.
+
+````
+@misc{çağatan2024unsee,
+      title={UNSEE: Unsupervised Non-contrastive Sentence Embeddings}, 
+      author={Ömer Veysel Çağatan},
+      year={2024},
+      eprint={2401.15316},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+
+````
+
+
 
 ## Acknowledgements
 
